@@ -1,16 +1,19 @@
-Dubai Housing Affordability Explorer
+# Dubai Housing Affordability Explorer
 
 A comprehensive data visualization tool to help Dubai residents find affordable housing options through interactive maps, trend analysis, and personalized affordability calculations.
 
-Features
+## Features
 
-Interactive Housing Map: Visualize rental properties across Dubai neighborhoods with price-based filtering
-Rental Price Trends: Analyze how rental prices have changed over time in different areas
-Neighborhood Comparison: Compare multiple neighborhoods based on affordability, amenities, and lifestyle factors
-Affordability Calculator: Calculate what you can afford based on your income and expenses
-Housing Resources: Access information about tenant rights and affordable housing initiatives
+- **Interactive Housing Map**: Visualize rental properties across Dubai neighborhoods with price-based filtering
+- **Rental Price Trends**: Analyze how rental prices have changed over time in different areas
+- **Neighborhood Comparison**: Compare multiple neighborhoods based on affordability, amenities, and lifestyle factors
+- **Affordability Calculator**: Calculate what you can afford based on your income and expenses
+- **Housing Resources**: Access information about tenant rights and affordable housing initiatives
 
-Installation
+## Installation
+
+1. Clone this repository:
+```bash
 git clone https://github.com/haseenjumana/dubai-housing-explorer.git
 cd dubai-housing-explorer
 
@@ -48,4 +51,3 @@ The application can be deployed on Streamlit Cloud or any hosting platform that 
 
 Data Sources
 This application uses data sourced from official Dubai property listings and records.
-
